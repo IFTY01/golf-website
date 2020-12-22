@@ -1,0 +1,188 @@
+*{
+	margin: 0PX;
+	padding: 0px;
+}
+body{
+	background-image: url("../images/golf.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+ul {
+	float: right;
+	list-style-type: none;
+}
+ul li {
+	display: inline-block;
+	margin: 20px 10px;
+}
+ul li a {
+	text-decoration: none;
+	border: 2px solid white;
+	padding: 5px 10px;
+	color: white;
+}
+ul li a:hover {
+	background: white;
+	color: black;
+	transition: .5s;
+}
+#logo img {
+	height: auto;
+	width: 60px;
+	float: left;
+	padding: 10px;
+}
+.pto{
+	height: 1100px;
+	width: 1250px;
+	
+	position: absolute;
+	left: 06%;
+	top: 10%;
+	display: inline-block;
+}
+.pto1{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf1.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto2{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf2.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto3{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf3.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto4{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf4.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto5{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf5.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto6{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf6.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto7{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf7.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto8{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf8.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto9{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf9.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto10{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf10.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto11{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf11.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto12{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf12.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto13{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf13.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto14{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf14.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto15{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf15.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}
+.pto16{
+	height: 275px;
+	width: 300px;
+	border: 4px solid white;
+	background: url("../images/golf16.jpg");
+	background-position: center;
+	background-size: cover;
+	display: inline-block;
+}

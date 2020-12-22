@@ -1,0 +1,161 @@
+*{
+	margin: 0PX;
+	padding: 0px;
+}
+body{
+	background: #e9c496;
+}
+ul {
+	float: right;
+	list-style-type: none;
+}
+ul li {
+	display: inline-block;
+	margin: 20px 10px;
+}
+ul li a {
+	text-decoration: none;
+	border: 2px solid white;
+	padding: 5px 10px;
+	color: white;
+}
+ul li a:hover {
+	background: white;
+	color: black;
+	transition: .5s;
+}
+#logo img {
+	height: auto;
+	width: 60px;
+	float: left;
+	padding: 10px;
+}
+#pl{
+	height: 500px;
+	width: 1200px;
+	background: white;
+	position: absolute;
+	margin: 100px auto;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+#im{
+	height: 200px;
+	width: 200px;
+	background-image: url("../images/player1.jpg");
+	border-radius: 50%;
+	background-size: cover;
+	background-position: center;
+	margin: auto;
+}
+#p1{
+	height: 300px;
+	width: 800px;
+	margin: auto;
+	text-align: justify;
+	margin-top: 20px;
+	font-family: 'Bitter', serif;
+}
+#jj{
+	height: 50px;
+	width: 500px;	
+}
+h2{
+   margin-left: 200px;
+   font-family: 'Bitter', serif;
+}
+
+#kk{
+	height: 500px;
+	width: 1200px;
+	background: white;
+	position: absolute;
+	margin-top: 600px;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+#jp{
+	height: 50px;
+	width: 500px;
+}
+h2{
+   margin-left: 200px;
+   font-family: 'Bitter', serif;
+  }
+  #imk{
+	height: 200px;
+	width: 200px;
+	background-image: url("../images/player2.gif");
+	border-radius: 50%;
+	background-size: cover;
+	background-position: center;
+	margin: auto;
+}
+#kp{
+	height: 500px;
+	width: 1200px;
+	background: white;
+	position: absolute;
+	margin-top: 1050px;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+  #imm{
+	height: 200px;
+	width: 200px;
+	background-image: url("../images/player3.jpg");
+	border-radius: 50%;
+	background-size: cover;
+	background-position: center;
+	margin: auto;
+}
+#oo{
+	height: 500px;
+	width: 1200px;
+	background: white;
+	position: absolute;
+	margin-top: 1500px;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+  #imd{
+	height: 200px;
+	width: 200px;
+	background-image: url("../images/player4.jpg");
+	border-radius: 50%;
+	background-size: cover;
+	background-position: center;
+	margin: auto;
+}
+#dd{
+	height: 500px;
+	width: 1200px;
+	background: white;
+	position: absolute;
+	margin-top: 1950px;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+ #ime{
+	height: 200px;
+	width: 200px;
+	background-image: url("../images/player5.jpg");
+	border-radius: 50%;
+	background-size: cover;
+	background-position: center;
+	margin: auto;
+}
+#footer{
+	position: absolute;
+	top: 380%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+#footer p{
+	color: black;
+}

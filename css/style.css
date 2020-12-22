@@ -1,0 +1,88 @@
+*{
+	margin: 0PX;
+	padding: 0px;
+}
+body{
+	background-image: url("../images/golf.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+ul {
+	float: right;
+	list-style-type: none;
+}
+ul li {
+	display: inline-block;
+	margin: 20px 10px;
+}
+ul li a {
+	text-decoration: none;
+	border: 2px solid white;
+	padding: 5px 10px;
+	color: white;
+}
+ul li a:hover {
+	background: white;
+	color: black;
+	transition: .5s;
+}
+#logo img {
+	height: auto;
+	width: 60px;
+	float: left;
+	padding: 10px;
+}
+#title{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+}
+#title h2 {
+	color: white;
+	font-size: 45px;
+	font-family: 'Bitter', serif;
+}
+#button{
+	position: absolute;
+	top: 60%;
+	left:50%;
+	transform: translate(-50%, -50%);
+}
+#button #btn1{
+	text-decoration: none;
+	border: 2px solid white;
+	color: white;
+	font-size: 20px;
+	font-family: 'Bitter', serif;
+	padding: 8px 12px;
+}
+#button #btn2{
+	text-decoration: none;
+	border: 2px solid white;
+	color: white;
+	font-size: 20px;
+	font-family: 'Bitter', serif;
+	padding: 8px 12px;
+}
+#button #btn1:hover {
+	color: #000;
+	background: #fff;
+	transition: .5s;
+}
+#button #btn2:hover {
+	color: #000;
+	background: #fff;
+	transition: .5s;
+}
+#footer{
+	position: absolute;
+	top: 95%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+#footer p{
+	color: white;
+}
